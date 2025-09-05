@@ -1,0 +1,51 @@
+
+// Layout
+
+$mobile: 375px;
+$tablet: 700px;
+$desktop: 1000px;
+
+// Colors
+// Primary
+$purple-500: hsl(259, 100%, 65%);
+$red-400: hsl(0, 100%, 67%);
+
+// Neutral
+$white: hsl(0, 100%, 100%);
+$grey-100: hsl(0, 0%, 94%);
+$grey-200: hsl(0, 0%, 86%);
+$grey-500: hsl(0, 1%, 44%);
+$black: hsl(0, 0%, 0%);
+
+// Typography
+// Body Copy
+$font-size-input: 32px;
+
+// Font
+@font-face {
+  font-family: 'poppins';
+  src: url('../assets/fonts/Poppins-Regular.ttf');
+}
+@font-face {
+  font-family: 'poppins-bold';
+  src: url('../assets/fonts/Poppins-Bold.ttf');
+}
+@font-face {
+  font-family: 'poppins-bold-italic';
+  src: url('../assets/fonts/Poppins-ExtraBoldItalic.ttf');
+}
+
+@mixin display-flex($justify-content, $align-items, $flex-flow, $gap) {
+  display: flex;
+  justify-content: $justify-content;
+  align-items: $align-items;
+  flex-flow: $flex-flow;
+  gap: $gap;
+}
+
+@keyframes labelMove {
+  0% {transform: translateX(0px);}
+  50% {transform: translateX(15px);}
+  75% {transform: translateX(-5px);}
+  100% {transform: translateX(0px);}
+}
