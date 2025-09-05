@@ -271,7 +271,7 @@ I would love to learn more about how to use functions and methods better. I thou
 
 For now I don't have a website of my own, but I am working on having one soon. I'll also need all the help I can get on this one. It's very important.
 - Frontend Mentor - [@EhiEjakhian](https://www.frontendmentor.io/profile/EhiEjakhian)
-- Chat me on Whatsapp - [Ehi Ejakhian](https://wa.me/+2348142340182?text=Hello%20Ehi%20.%20I%20checked%20your%20Intro%20Component%20With%20Sign%20up%20Form%20solution)
+- Chat me on Whatsapp - [Ehi Ejakhian](https://wa.me/+2348142340182?text=Hello%20Ehi%20.%20I%20checked%20your%20Age%20Calculator%20App%20solution!)
 - LinkedIn - [Ejakhian Ehi](https://ng.linkedin.com/in/ehi-ejakhian-2302a7318)
 
 I'm also an aspiring comic and sketch artist, so if you have any gigs or if you can relate, check me up on whatsapp and see my art.
